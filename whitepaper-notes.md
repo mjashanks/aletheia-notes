@@ -24,7 +24,7 @@ Nitpicking... but this implies that a submitted article is given a peer review "
 
 Would an Ethereum Dapp have the concept of a "login"? this would imply a "session". Maybe my misunderstanding, but I would have thought that all interactions with the blockchain are done statelessly, via your wallet, and ethereum contracts.
 
-## Section 6: 
+## Section 6: The rights to content shared via Aletheia and takedown orders
 
 > Content that has not been published elsewhere that is submitted to Aletheia...
 
